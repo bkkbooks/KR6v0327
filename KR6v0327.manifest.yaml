@@ -1,0 +1,99 @@
+canonical_identifier: bkk:krp/KR6v0327/v1
+canonical_location: https://kanripo.org/bkk/KR6v0327/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 菩提正道菩薩戒論
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B08/B08n0028.xml
+    old_id: B08n0028
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0327_000.yaml, hash: 'sha256:4c0eaa60794db0b6000edcf8e5164e95e8cc29b48ac9781de8670d5e53e7736c'}
+  - {seq: 1, filename: KR6v0327_001.yaml, hash: 'sha256:2feaf628c20f4ba09c8ed3cb859ed80bf61926bddfd8b117a46efc4289e46d7d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0327_001.markers.yaml, hash: 'sha256:500fff34a1f47edeedf36e8b88848a78f4f30ae73c11e2da36399052255ccb85'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0327_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 61882
+  label: 最極清淨菩薩戒藏持戒行相菩提正道論
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0327_B_001-mulu-1
+    span:
+    - body
+    - 27
+    - 27
+  label: 本文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0327_B_001-mulu-2
+    span:
+    - body
+    - 59790
+    - 59790
+  label: 後序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0327_B_001-mulu-3
+    span:
+    - body
+    - 59790
+    - 59790
+  label: 段祺瑞序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0327_B_001-mulu-4
+    span:
+    - body
+    - 60275
+    - 60275
+  label: 密林序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0327_B_001-mulu-5
+    span:
+    - body
+    - 60804
+    - 60804
+  label: 屈映光跋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0327_B_001-mulu-6
+    span:
+    - body
+    - 61274
+    - 61274
+  label: 湯薌銘序
+  type: mulu
+  level: 1
+hash: sha256:c6bd81c9d590aefd0d2fa7c17b4f858a9cfe3b6b6e6006f51743c3897c7e67f0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

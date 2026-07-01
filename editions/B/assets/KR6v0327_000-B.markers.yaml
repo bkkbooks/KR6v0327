@@ -1,0 +1,9 @@
+canonical_identifier: bkk:krp/KR6v0327/B/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6v0327_B_000-0612a, ed: B, 'n': 0612a, source_xml_id: B08.0028.0612a}
+  - {type: line-break, offset: 0, content: '', id: KR6v0327_B_000-0612a01, ed: B, 'n': 0612a01}
+  body: []
+  back: []
+hash: sha256:922f0b2565a41bf2fc98cad4a0cef6305782cb2334ac7e32187c8ce403b8688c

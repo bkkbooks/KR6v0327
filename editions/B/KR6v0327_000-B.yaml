@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0327/b/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 菩提正道菩薩戒論
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B08/B08n0028.xml
+    old_id: B08n0028
+hash: sha256:4c0eaa60794db0b6000edcf8e5164e95e8cc29b48ac9781de8670d5e53e7736c
