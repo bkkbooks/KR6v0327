@@ -19,9 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0327_000.yaml, hash: 'sha256:4c0eaa60794db0b6000edcf8e5164e95e8cc29b48ac9781de8670d5e53e7736c'}
-  - {seq: 1, filename: KR6v0327_001.yaml, hash: 'sha256:2feaf628c20f4ba09c8ed3cb859ed80bf61926bddfd8b117a46efc4289e46d7d'}
+  - {seq: 1, filename: KR6v0327_001.yaml, hash: 'sha256:1763a04880c6e2c1f23948c63112389454dc7681051e1adced6745b2fd023e31'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0327_001.markers.yaml, hash: 'sha256:500fff34a1f47edeedf36e8b88848a78f4f30ae73c11e2da36399052255ccb85'}
+  - {seq: 0, role: markers, filename: assets/KR6v0327_000.markers.yaml, hash: 'sha256:1f0b9da421eceedc257fce2e719d47def440b62e77567e8c0d1b67e7be9416ac'}
+  - {seq: 1, role: markers, filename: assets/KR6v0327_001.markers.yaml, hash: 'sha256:5f4f10fb63f305cc116cb40b095a6a8d5994d4718ff0159ed2ace7a48e58afdf'}
 table_of_contents:
 - ref:
     seq: 1
@@ -93,7 +94,4 @@ table_of_contents:
   label: 湯薌銘序
   type: mulu
   level: 1
-hash: sha256:c6bd81c9d590aefd0d2fa7c17b4f858a9cfe3b6b6e6006f51743c3897c7e67f0
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3c463ec9abdb476d2e408b4a9a1df8b0e60d1535df30ac9626916a0203baee55
