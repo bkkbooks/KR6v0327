@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0327/v1
 canonical_location: https://kanripo.org/bkk/KR6v0327/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 菩提正道菩薩戒論
   source:
@@ -19,10 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0327_000.yaml, hash: 'sha256:4c0eaa60794db0b6000edcf8e5164e95e8cc29b48ac9781de8670d5e53e7736c'}
-  - {seq: 1, filename: KR6v0327_001.yaml, hash: 'sha256:1763a04880c6e2c1f23948c63112389454dc7681051e1adced6745b2fd023e31'}
+  - {seq: 1, filename: KR6v0327_001.yaml, hash: 'sha256:7e4cab45d66b4995ffe2d9bea3668b8edc4ca4b95b9b6fdf9b52d11b2757c274'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0327_000.markers.yaml, hash: 'sha256:1f0b9da421eceedc257fce2e719d47def440b62e77567e8c0d1b67e7be9416ac'}
-  - {seq: 1, role: markers, filename: assets/KR6v0327_001.markers.yaml, hash: 'sha256:5f4f10fb63f305cc116cb40b095a6a8d5994d4718ff0159ed2ace7a48e58afdf'}
+  - {seq: 1, role: markers, filename: assets/KR6v0327_001.markers.yaml, hash: 'sha256:f170d04b6661c9b6828c816b660b695511558cd736db5112ef9b77a71e8b1596'}
 table_of_contents:
 - ref:
     seq: 1
@@ -94,4 +94,7 @@ table_of_contents:
   label: 湯薌銘序
   type: mulu
   level: 1
-hash: sha256:3c463ec9abdb476d2e408b4a9a1df8b0e60d1535df30ac9626916a0203baee55
+hash: sha256:14e050430272a6176850b2b85b236ed598742d5008adc00321cd654d90158dc3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
